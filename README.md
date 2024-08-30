@@ -12,12 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AdolfoVillalobos&show_icons=true&theme=tokyonight" alt="Adolfo Villalobos" />
 </p>
 
-<h3>🔭 Things I code with</h3>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfoVillalobos&theme=tokyonight&layout=compact&hide=css,Jupyter Notebook,html,tex" alt="Adolfo Villalobos" />
-</p>
-
 
 <h3>🔭 Where to find me</h3>
 
