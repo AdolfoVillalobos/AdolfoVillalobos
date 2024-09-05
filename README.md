@@ -21,6 +21,7 @@
     <li><a href="https://github.com/AdolfoVillalobos" target="_blank">GitHub</a></li>
     <li><a href="https://twitter.com/AdolfVillalobos" target="_blank">Twitter</a></li>
     <li><a href="https://www.linkedin.com/in/adolfovillalobos/" target="_blank">LinkedIn</a></li>
+    <li><a href="https://standardresume.co/r/1l05gba0YM7HZ_Dl7mgsq" target="_blank">CV</a></li>
   </ul>
 </p>
 
