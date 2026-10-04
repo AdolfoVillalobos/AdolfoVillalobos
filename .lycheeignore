@@ -1,0 +1,5 @@
+# Block bots, so they always fail link checks
+^https://www\.linkedin\.com/
+^https://x\.com/
+# Published by the snake workflow; doesn't exist until its first run
+^https://raw\.githubusercontent\.com/AdolfoVillalobos/AdolfoVillalobos/output/
