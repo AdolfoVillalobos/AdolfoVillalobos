@@ -1,27 +1,24 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align="center">
 
-<h2> Welcome to my page! </h2>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Adolfo+%F0%9F%91%8B;Senior+Software+Engineer+%40+Fintoc;Building+payments+infra+in+Santiago+%F0%9F%87%A8%F0%9F%87%B1" alt="Typing intro" />
 
+I'm a **Senior Software Engineer** on the **Payments** team at [Fintoc](https://fintoc.com), based in **Santiago, Chile** 🇨🇱.<br/>
+Previously a quant software engineer and data scientist. I like money-moving systems, quant finance, and a well-tuned Neovim.
 
+<a href="https://www.linkedin.com/in/adolfovillalobos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/AdolfVillalobos"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://fintoc.com"><img src="https://img.shields.io/badge/Fintoc-1C1C1C?style=for-the-badge&logoColor=white" alt="Fintoc" /></a>
 
-<p>I'm Adolfo, Software Engineer and Data Scientist originally from <img src="https://cdn-icons-png.flaticon.com/512/197/197586.png" width="13"/> <b>Santiago, Chile</b>, but currently living in <img src="https://cdn-icons-png.flaticon.com/512/323/323367.png" width="13"/> <b>Melbourne, Australia</b>. </p>
+<br/><br/>
 
-<h3>🔭 These are my stats</h3>
+<img src="https://skillicons.dev/icons?i=ruby,rails,py,ts,rust,postgres,redis,docker,aws,neovim&theme=dark" alt="Tech stack" />
 
-<p>
-  <img src="https://github-readme-stats-sigma-sand.vercel.app/api?username=AdolfoVillalobos&show_icons=true&theme=tokyonight" alt="Adolfo Villalobos" />
-</p>
+<br/><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdolfoVillalobos/AdolfoVillalobos/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdolfoVillalobos/AdolfoVillalobos/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AdolfoVillalobos/AdolfoVillalobos/output/github-snake.svg" />
+</picture>
 
-
-<h3>🔭 Where to find me</h3>
-
-<p>
-  <ul>
-    <li><a href="https://github.com/AdolfoVillalobos" target="_blank">GitHub</a></li>
-    <li><a href="https://twitter.com/AdolfVillalobos" target="_blank">Twitter</a></li>
-    <li><a href="https://www.linkedin.com/in/adolfovillalobos/" target="_blank">LinkedIn</a></li>
-    <li><a href="https://standardresume.co/r/1l05gba0YM7HZ_Dl7mgsq" target="_blank">CV</a></li>
-  </ul>
-</p>
-
+</div>
